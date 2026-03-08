@@ -1,112 +1,136 @@
 {
   "version": 1,
-  "base_track": "Happy (Official Video)",
+  "base_track": "ハッピー",
   "base_artist": "Pharrell Williams",
-  "createdAt": "2025-12-19T13:37:07.136049Z",
+  "createdAt": "2026-03-08T08:29:26.700108Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "Happy Does",
-      "artist": "Kenny Chesney",
-      "has_synced": true,
-      "path": "select/01_Happy_Does_Kenny_Chesney.lrc"
+      "title": "ハッピー・エヴァー・アフター",
+      "artist": "Julia Fordham",
+      "has_synced": false,
+      "path": "select/01_ハッピー・エヴァー・アフター_Julia_Fordham.txt"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "Happy Girl",
-      "artist": "Martina McBride",
+      "title": "ハッピー☆フィーバー!ホロライブ",
+      "artist": "さくらみこ feat. 大空スバル, 大神ミオ & ホロライブ運動会実行委員",
       "has_synced": true,
-      "path": "select/02_Happy_Girl_Martina_McBride.lrc"
+      "path": "select/02_ハッピー☆フィーバー!ホロライブ_さくらみこ_feat._大空スバル,_大神ミオ_&_ホロライブ運動会実行委員.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "Happy Hour",
-      "artist": "Morgan Wallen",
+      "title": "ハッピー☆フィーバー!ホロライブ",
+      "artist": "さくらみこ/大空スバル/大神ミオ/ホロライブ運動会実行委員",
       "has_synced": true,
-      "path": "select/03_Happy_Hour_Morgan_Wallen.lrc"
+      "path": "select/03_ハッピー☆フィーバー!ホロライブ_さくらみこ_大空スバル_大神ミオ_ホロライブ運動会実行委員.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "Happy Anywhere (feat. Gwen Stefani)",
-      "artist": "Blake Shelton feat. Gwen Stefani",
-      "has_synced": true,
-      "path": "select/04_Happy_Anywhere_(feat._Gwen_Stefani)_Blake_Shelton_feat._Gwen_Stefani.lrc"
+      "title": "ハッピー☆マテリアル(「魔法先生ネギま!」より)",
+      "artist": "ラスマス・フェイバー・プレゼンツ・プラチナ・ジャズ",
+      "has_synced": false,
+      "path": "select/04_ハッピー☆マテリアル(「魔法先生ネギま!」より)_ラスマス・フェイバー・プレゼンツ・プラチナ・ジャズ.txt"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "Happy Anywhere (feat. Gwen Stefani)",
-      "artist": "Blake Shelton",
+      "title": "ハッピー･ハッピー･フレンズ",
+      "artist": "わたてん☆5",
       "has_synced": true,
-      "path": "select/05_Happy_Anywhere_(feat._Gwen_Stefani)_Blake_Shelton.lrc"
+      "path": "select/05_ハッピー・ハッピー・フレンズ_わたてん☆5.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "I Hope You’re Happy Now",
-      "artist": "Carly Pearce",
+      "title": "ハッピー･ハッピー･フレンズ -Instrumental-",
+      "artist": "Wataten5",
       "has_synced": true,
-      "path": "select/06_I_Hope_You’re_Happy_Now_Carly_Pearce.lrc"
+      "path": "select/06_ハッピー・ハッピー・フレンズ_-Instrumental-_Wataten5.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "We’re Happy Little Vegemites",
-      "artist": "Amanda Palmer",
+      "title": "ハッピー・バースデー",
+      "artist": "the pillows",
       "has_synced": true,
-      "path": "select/07_We’re_Happy_Little_Vegemites_Amanda_Palmer.lrc"
+      "path": "select/07_ハッピー・バースデー_the_pillows.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "Die A Happy Man",
-      "artist": "Thomas Rhett",
-      "has_synced": true,
-      "path": "select/08_Die_A_Happy_Man_Thomas_Rhett.lrc"
+      "title": "ハッピー☆マテリアル",
+      "artist": "Ma15",
+      "has_synced": false,
+      "path": "select/08_ハッピー☆マテリアル_Ma15.txt"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "Happy Anywhere (feat. Gwen Stefani)",
-      "artist": "Blake Shelton",
+      "title": "ハッピー☆フィーバー!ホロライブ",
+      "artist": "さくらみこ",
       "has_synced": true,
-      "path": "select/09_Happy_Anywhere_(feat._Gwen_Stefani)_Blake_Shelton.lrc"
+      "path": "select/09_ハッピー☆フィーバー!ホロライブ_さくらみこ.lrc"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "Happy Hour - Slower Lower Sessions",
-      "artist": "Jimmie Allen",
+      "title": "ハッピー☆マテリアル",
+      "artist": "麻帆良学園中等部2-A(鳴滝風香・鳴滝史伽・葉加瀬聡美・長谷川千雨・Evangeline.A.K.McDowell)",
       "has_synced": true,
-      "path": "select/10_Happy_Hour_-_Slower_Lower_Sessions_Jimmie_Allen.lrc"
+      "path": "select/10_ハッピー☆マテリアル_麻帆良学園中等部2-A(鳴滝風香・鳴滝史伽・葉加瀬聡美・長谷川千雨・Evangeline.A.K.McDowell).lrc"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "I'm So Happy I Can't Stop Crying",
-      "artist": "Toby Keith",
+      "title": "ハッピー☆マテリアル",
+      "artist": "麻帆良学園中等部2-A (相坂さよ, 明石裕奈, 朝倉和美, 綾瀬夕映, 和泉亜子, 大河内アキラ)",
       "has_synced": true,
-      "path": "select/11_I'm_So_Happy_I_Can't_Stop_Crying_Toby_Keith.lrc"
+      "path": "select/11_ハッピー☆マテリアル_麻帆良学園中等部2-A_(相坂さよ,_明石裕奈,_朝倉和美,_綾瀬夕映,_和泉亜子,_大河内アキラ).lrc"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "If You Ain't Happy Now (You Never Will Be)",
-      "artist": "Jesse Daniel",
+      "title": "ハッピー☆マテリアル リターン",
+      "artist": "麻帆良学園中等部3-A",
       "has_synced": false,
-      "path": "select/12_If_You_Ain't_Happy_Now_(You_Never_Will_Be)_Jesse_Daniel.txt"
+      "path": "select/12_ハッピー☆マテリアル_リターン_麻帆良学園中等部3-A.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ハッピー☆ラッキー・バースデー!",
+      "artist": "水田わさび (ドラえもん), 大原めぐみ (のび太), かかずゆみ (しずか), 木村 昴 (ジャイアン) & 関 智一 (スネ夫)",
+      "has_synced": true,
+      "path": "select/13_ハッピー☆ラッキー・バースデー!_水田わさび_(ドラえもん),_大原めぐみ_(のび太),_かかずゆみ_(しずか),_木村_昴_(ジャイアン)_&_関_智一_(スネ夫).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ハッピー☆マテリアル",
+      "artist": "ハロー、ハッピーワールド！",
+      "has_synced": true,
+      "path": "select/14_ハッピー☆マテリアル_ハロー、ハッピーワールド!.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ハッピー・ハッピー・フレンズ",
+      "artist": "わたてん☆5",
+      "has_synced": true,
+      "path": "select/15_ハッピー・ハッピー・フレンズ_わたてん☆5.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "Happy",
+      "title": "Happy (from \"Despicable Me 2\")",
       "artist": "Pharrell Williams",
       "has_synced": false,
-      "path": "select/pl_01_Happy_Pharrell_Williams.txt"
+      "path": "select/pl_01_Happy_(from__Despicable_Me_2_)_Pharrell_Williams.txt"
     }
   ]
 }
